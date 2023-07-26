@@ -85,7 +85,7 @@ include "../../scripts/javaScript.php";
 
                             <div class=" form-floating mb-3 mt-5">
                                 <input id="email" type="email" name="email" placeholder="Mail Adresinizi Gİrin" class="form-control" required>
-                                <label for="email" class="form-label  ">E-mail</label>
+                                <label for="email" class="form-label ">E-mail</label>
                             </div>
 
                             <div class=" form-floating mb-3 mt-5">

@@ -4,7 +4,7 @@ require_once "connection.php";
 
 $name = $_POST["name"];
 $surname = $_POST["surname"];
-$email = $_POST["mail"];
+$email = $_POST["email"];
 $password = $_POST["password"];
 
 $userInsert  = "insert into user (name,surname,email,password) values (?,?,?,?)";
